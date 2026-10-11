@@ -12,11 +12,6 @@ attempted... leading to a more backend focused implementation as the Svelte port
 
 I attempted a fully type strict solution, though the backend can be improved in a future version.
 
-## Increase component usage
-
-Using reusable or repeating components like product cards and the user input form section would lead to a cleaner
-entry point code, I decided to get a less elegant working prototype done at first.
-
 ## Autocomplete text search
 
 This proposal needs more discussion as I'm unsure a standard HTML dropdown will provide adequate non-keyboard focused
